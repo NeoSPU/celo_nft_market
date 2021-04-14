@@ -1,0 +1,35 @@
+export const STACK_SCENES = {
+  BROWSE_SCENE: 'Browse',
+  LOGIN_SCENE: 'CELO Login',
+  CONNECT_TO_VALORA_SCENE: 'VALORA Wallet',
+  CREATE_SCENE: 'Wanna Create own NFT',
+  EXCHANGE_SCENE: 'Exchange CELO',
+  ITEM_DETAIL_SCENE: 'Item Detail',
+  ACTIVITY_SCENE: 'Activity',
+  RANKINGS_SCENE: 'Rankings',
+  MY_COLLECTIONS_SCENE: 'My Collections',
+  SUBMIT_NFT_SCENE: 'Submit NFTs',
+  MY_WALLET_SCENE: 'My Wallet',
+  ACCOUNT_SCENE: 'Account',
+  MY_ACTIVITY_SCENE: 'My Activity',
+  W_ETH_SCENE: 'W-ETH Station',
+  CELO_SCENE: 'CELO Station',
+  OFFERS_SCENE: 'Offers',
+  SELL_SCENE: 'Sell',
+  TRANSFER_SCENE: 'Transfer',
+  ACCOUNT_SETTINGS_SCENE: 'Account Settings',
+  DRAWER_MENU: 'Drawer Menu',
+  CELO_HELLO_WORLD: 'Celo Hello World',
+  NFT_FIELDS_SCENE: 'Create your NFT data'
+}
+
+export const DRAWER_MENU_TYPES = {
+  MAIN_ITEM: 'MAIN_ITEM',
+  BROSE_ITEM: 'BROWSE_ITEM',
+  MY_LOGIN_ITEM: 'MY_LOGIN_ITEM',
+  VALORA_ITEM: 'VALORA_ITEM',
+  CREATE_ITEM: 'CREATE_ITEM',
+  EXCHANGE_ITEM: 'EXCHANGE_ITEM',
+  SWITCH_ITEM: 'SWITCH_ITEM',
+  OPEN_SEA_BANNER: 'OPEN_SEA_BANNER'
+}
