@@ -1,7 +1,7 @@
 
 # Celo NFT Market 
 
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+![](https://github.com/NeoSPU/celo_nft_market/blob/main/assets/icon.png)
 
 
 ## This Mobile CELO DAPP has been special created for Hackathon: Make it Mobile Hackathon with Celo
@@ -21,7 +21,7 @@ This repository contains the source code for the Celo NFT Market [Celo NFT Marke
 <!-- image with YouTube link -->
 <p align="center">
   <a href="https://youtu.be/hBi7RW4G8Ro">
-    <img src="https://github.com/NeoSPU/celo_nft_market/blob/main/assets/icon.png" title="Play on Youtube - CELO NFT Market" width="300" style="border:none;"/>
+    <img src="https://github.com/NeoSPU/celo_nft_market/blob/main/assets/Images/logo_main.png" title="Play on Youtube - CELO NFT Market" width="300" style="border:none;"/>
   </a>
   <br />
   <i>CELO NFT Market</i>
